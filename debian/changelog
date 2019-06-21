@@ -1,0 +1,5 @@
+cryptography (1.7.1+ind1) testing; urgency=medium
+
+  * Initial release
+
+ -- Shrikant Bobade <shrikant_bobade@mentor.com>  Wed, 06 Mar 2019 10:11:56 -0500
