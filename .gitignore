@@ -12,3 +12,17 @@ htmlcov/
 .eggs/
 *.py[co]
 .hypothesis/
+
+# PyBuilder
+target/
+.pybuild/
+
+# debuild
+debian/*.debhelper
+debian/*.substvars
+debian/.debhelper/
+debian/debhelper*
+debian/python-cryptography*
+debian/python3-cryptography*
+debian/files
+.pytest_cache/
